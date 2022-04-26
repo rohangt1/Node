@@ -1,0 +1,17 @@
+{
+  "name": "nodetojava",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3",
+    "ftp": "^0.3.10",
+    "java-caller": "^2.4.0"
+  }
+}
